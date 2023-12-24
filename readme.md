@@ -36,4 +36,4 @@ The script will start launching multiple threads, each sending HTTP requests to 
 Contributions to this script are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This script is released under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
